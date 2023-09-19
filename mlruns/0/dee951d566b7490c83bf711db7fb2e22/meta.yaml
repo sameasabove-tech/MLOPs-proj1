@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/DRMair/Desktop/Projects/daboyz/MLOPs/MLOPs-proj1/mlruns/0/dee951d566b7490c83bf711db7fb2e22/artifacts
+end_time: 1695079288363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee951d566b7490c83bf711db7fb2e22
+run_name: ambitious-wren-398
+run_uuid: dee951d566b7490c83bf711db7fb2e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695079283850
+status: 3
+tags: []
+user_id: DRMair
